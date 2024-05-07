@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body{
+
+    margin: auto;
+}
+
+body >ul{
+
+    columns: 2;
+    list-style-position: initial;
+   
+}
