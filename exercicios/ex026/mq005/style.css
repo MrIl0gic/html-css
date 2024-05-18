@@ -16,7 +16,7 @@ header > h1{
     text-align: center; }
 
 menu{
-    display: block;
+    display: none;
    
 }
  
@@ -57,4 +57,15 @@ article > p{
     text-align: justify;
     text-indent: 20px;
     margin-bottom: 20px;
+}
+span#burger{
+    background-color:black;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+span#burger:hover{
+    background-color: white;
+    color: black;
 }
